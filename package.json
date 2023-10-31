@@ -1,0 +1,29 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "Build a function that shows the shortest way from one square to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curveservices/knights-travails.git"
+  },
+  "keywords": [
+    "data-structure",
+    "algorithms"
+  ],
+  "author": "Paul Rossiter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curveservices/knights-travails/issues"
+  },
+  "homepage": "https://github.com/curveservices/knights-travails#readme",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
