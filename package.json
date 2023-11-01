@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "watch": "webpack --watch"
+    "watch": "webpack --watch",
+    "prettier": "prettier . --write",
+    "pages": "git subtree push --prefix dist origin gh-pages"
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,7 @@
   },
   "homepage": "https://github.com/curveservices/knights-travails#readme",
   "devDependencies": {
+    "prettier": "3.0.3",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   }

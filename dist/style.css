@@ -1,20 +1,51 @@
-/* style.css */
+*,
+*:before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: fantasy;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 60px;
+  background: #007bff59;
+  padding: 0rem 5rem 0rem 3rem;
+}
+.header-container {
+  display: flex;
+
+  align-items: center;
+  font-weight: 900;
+  font-size: 20px;
+  gap: 2rem;
+}
+
 .chessboard {
-  padding: 0;
   display: grid;
   grid-template-columns: repeat(8, 50px);
   grid-template-rows: repeat(8, 50px);
-  align-items: center;
+  margin: 2rem;
   justify-content: center;
 }
-  
+
 /* Apply alternating black and white colors to squares */
 .square {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  border: 1px solid #000;
+}
+
+.knight {
+  background-color: #007bff !important;
+  color: white !important;
 }
 
 .black {
@@ -26,10 +57,19 @@
   background-color: white;
   color: black;
 }
-  
-.knight {
-  position: absolute;
-  width: 50px;
-  height: 50px;
+
+.knight-img {
+  width: 100px;
+  height: 100px;
 }
-  
+
+.text-container {
+  display: flex;
+  flex-wrap: column wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem;
+  background-color: #007bff59;
+  border-radius: 10px;
+}

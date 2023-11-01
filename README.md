@@ -1,11 +1,10 @@
-# 🚫 UNDER CONSTRUCTION 🚫
+# Project: Knights Travails
 
-# Project: knights-travails
-
-## Live Demo 👉 
+## Live Demo 👉 [knights travails](https://curveservices.github.io/knights-travails/)
 
 ## PC View 👇
 
+<img width="704" alt="Screenshot 2023-11-01 at 12 54 40" src="https://github.com/curveservices/knights-travails/assets/101556296/b7e41b39-d2dc-471c-afb7-ebb8a8531cc2">
 
 ## Overview
 
@@ -13,7 +12,7 @@
 
 ## Assets
 
-- 
+-
 
 ## Obejective
 
@@ -32,15 +31,13 @@
 ```
 
 ## Extra
+
 - N/A
 
 ## Languages & Tools
 
 <a href="https://javascript.info/"><img width="100" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a> <a href="https://html.com/html5/"><img width="100" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a> <a href="https://css3.com/"><img width="100" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a> <img width="100" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="100" />
-          
 
-
-***<a href="https://twitter.com/Crypto_Rozla"> Rozla-Dev </a> 00-00-2023***
-
+**_<a href="https://twitter.com/Crypto_Rozla"> Rozla-Dev </a> completed 01-11-2023_**
 
 [Back to top 👆](#project-knights-travails)

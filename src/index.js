@@ -1,6 +1,5 @@
-import { createChessBoard, displayKnightPath } from './dom';
-import { knightsMoves } from './knight-move'
+import { createChessBoard, displayKnightPath } from "./dom";
+import { handleText } from "./handle";
 
 createChessBoard();
-
-console.log('hello world');
+handleText();
